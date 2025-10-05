@@ -8,40 +8,40 @@ It provides **data visualization, model metrics, and prediction capabilities** f
 ## **Folder Structure**
 
 Instagram-fake-spammer-genuine-accounts/
-|
-├── data/
-│ ├── train.csv # Training dataset
-│ └── test.csv # Test dataset
-|
-├── notebooks/
-│ └── best_instagram_fake_spammer_model.pkl # Trained ML model
-│ └── Figure_1.png
-│ └── git_bash_output(train_model_final.py)
-│ └── git_bash_output(train_model.py)
-│ └── instagram_fake_spammer_project.ipynb
-│ └── best_instagram_fake_spammer_model.pkl # Trained ML model
-|
-├── results/
-│ ├── 01_fake_vs_genuine.png
-│ ├── 02_follower_vs_following.png
-│ ├── 03_correlation_heatmap.png
-│ ├── 04_confusion_matrix.png
-│ ├── 05_feature_importance.png
-│ ├── model_metrics.csv
-│ └── evaluation_report.txt
-|
-├── .gitignore
-|
-├── app.py # Main Streamlit application
-|
-├── README.md # Project documentation
-|
-├── LICENSE
-|
-├── train_model.py
-|
-├── train_model_final.py
-└── requirements.txt # Python dependencies
+-|
+-├── data/
+-│ ├── train.csv # Training dataset
+-│ └── test.csv # Test dataset
+-|
+-├── notebooks/
+-│ └── best_instagram_fake_spammer_model.pkl # Trained ML model
+-│ └── Figure_1.png
+-│ └── git_bash_output(train_model_final.py)
+-│ └── git_bash_output(train_model.py)
+-│ └── instagram_fake_spammer_project.ipynb
+-│ └── best_instagram_fake_spammer_model.pkl # Trained ML model
+-|
+-├── results/
+-│ ├── 01_fake_vs_genuine.png
+-│ ├── 02_follower_vs_following.png
+-│ ├── 03_correlation_heatmap.png
+-│ ├── 04_confusion_matrix.png
+-│ ├── 05_feature_importance.png
+-│ ├── model_metrics.csv
+-│ └── evaluation_report.txt
+-|
+-├── .gitignore
+-|
+-├── app.py # Main Streamlit application
+-|
+-├── README.md # Project documentation
+-|
+-├── LICENSE
+-|
+-├── train_model.py
+-|
+-├── train_model_final.py
+-└── requirements.txt # Python dependencies
 
 
 ---
