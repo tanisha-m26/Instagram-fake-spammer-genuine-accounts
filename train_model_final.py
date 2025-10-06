@@ -1,5 +1,5 @@
 """
-train_model.py
+train_model_final.py
 ---------------
 Instagram Fake-Spammer-Genuine Account Detection
 Full Analytics + Model Training with GridSearchCV + Visualizations
